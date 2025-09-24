@@ -1,20 +1,18 @@
-# Verilog-VHDL-Projects
-Collection of Verilog and VHDL projects with simulations and testbench, showcasing FPGA/HDL skills.
+# FPGA-Designs
+This repository contains a collection of FPGA projects implemented in Verilog and VHDL.
 
-# 📌Project: Output One
+---
 
-## Description
-This project demonstrates a simple module that always outputs logic '1'.
-It is one of the basic HDLBits exercises designed to practice both **Verilog** and **VHDL** fundamentals.
+## Tech Stack
 
-## 📂Files
-- `Output-one.v`        - Verilog   implementation
-- `Output-one.vhd`      - VHDL      implementation
-- `tb_Output-one.v`     - Verilog   implementation
-- `tb_Output-one.vhd`   - VHDL      implementation
-- `waveform.png`        - Simulation result (identical for both Verilog and VHDL)
+![Verilog](https://img.shields.io/badge/HDL-Verilog-blue?logo=verilog)
+![VHDL](https://img.shields.io/badge/HDL-VHDL-purple?logo=vhdl)
+![Vivado](https://img.shields.io/badge/Tool-Xilinx%20Vivado-orange?logo=xilinx)
 
-## 📝Notes
-- Purpose:  Practice basic HDL coding and simulating.
-- Tools:    Vivado Simulator.
-- Both Verilog and VHDL implementations produce the same result.
+---
+
+## Usage
+
+Clone the repository:
+```bash
+git clone https://github.com/OmarMammadzade/FPGA-Designs.git  
