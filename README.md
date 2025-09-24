@@ -15,4 +15,4 @@ This repository contains a collection of FPGA projects implemented in Verilog an
 
 Clone the repository:
 ```bash
-git clone https://github.com/OmarMammadzade/FPGA-Designs.git  
+git clone https://github.com/OmarMammadzade/FPGA-Designs.git
