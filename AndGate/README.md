@@ -1,4 +1,4 @@
-# FPGA-Designs AND Gate
+# FPGA-Designs: AND Gate
 This project demonstrates a simple FPGA design that creates a module with **one input and one output** behaving like an AND Gate.
 
 ## 📌Description
