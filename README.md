@@ -1,5 +1,5 @@
 # FPGA-Designs
-This repository contains a collection of FPGA projects implemented in Verilog and VHDL.
+This repository contains a collection of FPGA projects implemented in Verilog and VHDL using Xiling Vivado.
 
 ---
 
