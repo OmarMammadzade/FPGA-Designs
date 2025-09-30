@@ -6,11 +6,12 @@ This project demonstrates a simple FPGA design that creates a module with **one 
 - **Function:**     The module has two inputs (a and b) and one output (out). The output is 1 when both inputs are equal, otherwise 0.
 
 ## 🧮Truth Table
-|&nbsp;a&nbsp;|&nbsp;b&nbsp;|&nbsp;&nbsp;out (a ⊙ b)
-|&nbsp;0&nbsp;|&nbsp;0&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1
-|&nbsp;0&nbsp;|&nbsp;1&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0
-|&nbsp;1&nbsp;|&nbsp;0&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0
-|&nbsp;1&nbsp;|&nbsp;1&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1
+| a | b | out (a ⊙ b) |
+|---|---|-------------|
+| 0 | 0 |      1      |
+| 0 | 1 |      0      |
+| 1 | 0 |      0      |
+| 1 | 1 |      1      |
 
 ## 📂Files
 - `XNor-Gate.v`        - Verilog   implementation
