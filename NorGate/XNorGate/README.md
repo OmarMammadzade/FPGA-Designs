@@ -7,7 +7,7 @@ This project demonstrates a simple FPGA design that creates a module with **one 
 
 ## 🧮Truth Table
 | a | b | out (a ⊙ b) |
-|---|---|-------------|
+|:-:|:-:|:-----------:|
 | 0 | 0 |      1      |
 | 0 | 1 |      0      |
 | 1 | 0 |      0      |
